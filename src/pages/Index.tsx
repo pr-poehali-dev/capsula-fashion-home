@@ -17,19 +17,19 @@ export default function Index() {
       title: "Женская коллекция",
       description: "Изящные силуэты и современная элегантность",
       color: "bg-[#F0E6D2]",
-      image: "/img/5b61eb74-83cc-4186-9b6a-5173ef0941ae.jpg"
+      image: "/img/21b22278-a203-4475-8ec4-fc74d96da16d.jpg"
     },
     {
       title: "Мужская коллекция", 
       description: "Минимализм и безупречное качество",
       color: "bg-[#C8E6C9]",
-      image: "/img/5b61eb74-83cc-4186-9b6a-5173ef0941ae.jpg"
+      image: "/img/21b22278-a203-4475-8ec4-fc74d96da16d.jpg"
     },
     {
       title: "Аксессуары",
       description: "Завершающие штрихи вашего образа",
       color: "bg-[#F8BBD9]",
-      image: "/img/5b61eb74-83cc-4186-9b6a-5173ef0941ae.jpg"
+      image: "/img/21b22278-a203-4475-8ec4-fc74d96da16d.jpg"
     }
   ];
 
@@ -134,7 +134,7 @@ export default function Index() {
             <div className="relative animate-fade-in">
               <div className="relative overflow-hidden rounded-lg">
                 <img
-                  src="/img/5b61eb74-83cc-4186-9b6a-5173ef0941ae.jpg"
+                  src="/img/21b22278-a203-4475-8ec4-fc74d96da16d.jpg"
                   alt="Fashion Hero"
                   className="w-full h-[500px] object-cover transition-transform duration-700 hover:scale-105"
                 />
